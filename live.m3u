@@ -1,0 +1,133 @@
+#EXTM3U
+ 
+#EXTINF:-1,Tele Boston
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://haitianhollywood.com/images/customLogo.png",TELE Shalom
+http://62.210.181.82:8080/hls/playlistshalom.m3u8
+#EXTINF:0,T H Montreal
+http://38.96.175.229:1935/live/thm/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/45/eb/36535/c175.png",CPAM TV
+rtmp://livestream.5centscdn.com:1935/cpamtv/62a3470aba3066d872b1a90377b3215a.sdp
+#EXTINF:-1,24TELE PACIFIQUE
+http://hdirectrtmp.tulix.tv:1935/telepacific/telepacific/chunklist_w1746177763.m3u8
+#EXTINF:-1 tvg-logo="http://http://www.kap509.com/img/design/logo-head.png",KAP509
+rtmp://channel3.castgraph.net/live/ZGFjZGZhNj
+#EXTINF:-1,GOSPEL TV RTH
+http://162.244.80.169:2014/live/rth2000tv2/playlist.m3u8
+#EXTINF:-1,tvg-logo="http://www.qim.com/nouvelles/archives_2014/images/Ici-Radio-Canada.jpg",Canada - ici Radio Canada Montreal
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.qim.com/nouvelles/archives_2014/images/Ici-Radio-Canada.jpg",Canada - ici Radio Canada Quebec
+http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.qim.com/nouvelles/archives_2014/images/Ici-Radio-Canada.jpg",Canada - ici Radio Canada Ottawa-Gatineau
+http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.qim.com/nouvelles/archives_2014/images/Ici-Radio-Canada.jpg",Canada - ici Radio Canada Trois-Rivieres
+http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.qim.com/nouvelles/archives_2014/images/Ici-Radio-Canada.jpg",Canada - ici Radio Canada Rimouski
+http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.qim.com/nouvelles/archives_2014/images/Ici-Radio-Canada.jpg",Canada - ici Radio Canada Saguenay
+http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.qim.com/nouvelles/archives_2014/images/Ici-Radio-Canada.jpg",Canada - ici Radio Canada Sherbrooke
+http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.qim.com/nouvelles/archives_2014/images/Ici-Radio-Canada.jpg",Canada - ici Radio Canada Sherbrooke
+http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8
+ 
+ 
+#EXTINF:-1,tvg-logo="http://www.actusmedias.com/wp-content/uploads/2014/05/ici_rdi.jpg",Canada - ici RDI
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://www.thematv.com/medias/channels/cmusictv/cmusic_hd.png",Divers - HD Music TV
+http://80.250.191.10:1935/live/hlsstream343/chunklist_w2140176588.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arte_Logo_2011.svg/langfr-180px-Arte_Logo_2011.svg.png",France - Arte HD
+http://streaming-hub.com/stream/arte.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.svg/langfr-220px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.svg.png",Canada - Assemblee Nationale Quebec
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.centraltv.fr/wp-content/uploads/BEATZ-TV_ch.jpg",Divers - Beatz Suisse
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://boris.16mb.com/tv/fr/bfm_fr_business.png",France - BFM Business
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master-4.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.webmaster-gratuit.com/pict/fb-bfmtv.png",France - BFM TV
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Canalsavoir2009.svg/langfr-115px-Canalsavoir2009.svg.png",Canada - Canal Savoir
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/210px-CHCH2010.svg.png",Canada - CHCH Ontario (en)
+http://52.86.189.59:1935/live/news/chunklist_w2048334318.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/ENORME_TV_LOGO.png/250px-ENORME_TV_LOGO.png",France - Enorme TV
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/220px-Euronews._2016_alternative_logo.png",France - EuroNews (en)
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/755353906683740165/2zsmOqlL.jpg",France - France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+ 
+#EXTINF:-1,tvg-logo="http://generations.fr/assets/logo.jpg",Divers - Generation TV
+http://rtmp.infomaniak.ch/livecast/generation-tv/chunklist_w1168491110.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.telegrenoble.net/images/interface/bannerLogo.png",France - Grenoble HD
+http://stream-04.vty.dailymotion.com/10/dm/1/x128fjo/live.isml/events(live-1484075375)/live-audio=128000-video=1200000.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/LogoLCN.JPG/250px-LogoLCN.JPG",France - La Chaine Normande
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://www.tv-direct.fr/logo-tv/logo-latele.jpg",Suisse - La Tele
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/LCP.svg/langfr-220px-LCP.svg.png",France - La Chaine Parlementaire
+http://stream-ec2.vty.dailymotion.com/49/dm/1/xji3qy/live.isml/events(live-1477492408)/live-audio=128000-video=1200000.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.matele.tv/wp-content/uploads/2015/11/matele-1920.jpg",France - Ma Tele Saint-Quentin
+http://37.187.27.150:1935/matelelive/ngrp:matelelive_all/chunklist_w1978352061_b978000.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.nrjweb.be/images/NRJ-Hits-Tv.png",Divers - NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.le-direct.com/images/logo/logo-rds.jpg",Canada - RDS Sports
+http://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/index_1536_av-p.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.tebeo.bzh/images/header_tebeochezvous.png",France - Tebeo
+http://live2.awedia.com/hls/tebeo_low.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://lh4.googleusercontent.com/-zf8ohGYdLgY/AAAAAAAAAAI/AAAAAAAAZMw/H8hqyGKLN4I/s0-c-k-no-ns/photo.jpg",France - TV5 Monde (Amerique latine)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://lh4.googleusercontent.com/-zf8ohGYdLgY/AAAAAAAAAAI/AAAAAAAAZMw/H8hqyGKLN4I/s0-c-k-no-ns/photo.jpg",France - TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TV7_Bordeaux.jpg/150px-TV7_Bordeaux.jpg",France - TV7 Bordeaux
+http://62.210.204.108:1935/livtv7vo/myStream.smil/chunklist_w1048374224_b828000_slfra.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/TVA_2012_logo.svg/1280px-TVA_2012_logo.svg.png",Canada - TVA Montreal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/TVPI_logo.png/200px-TVPI_logo.png",France - TVPI Bayonne
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/07/vibeelogotv-Custom.png",Divers - Vibee TV Music
+http://46.101.21.42:8081/live/live2/chunks.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/03/times-square-logo-design.png",Webcam - Time Square New York (1)
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist_w1105786569.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/03/times-square-logo-design.png",Webcam - Time Square New York (2)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist_w912634094.m3u8
+ 
+#EXTINF:-1,tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/03/times-square-logo-design.png",Webcam - Time Square New York (3)
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="https://www.clipartkid.com/images/450/brooklyn-bridge-clipart-cliparthut-free-clipart-K9fUgw-clipart.jpg",Webcam - Brooklyn bridge New York
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8
