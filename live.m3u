@@ -14,6 +14,25 @@ http://hdirectrtmp.tulix.tv:1935/telepacific/telepacific/chunklist_w1746177763.m
 rtmp://channel3.castgraph.net/live/ZGFjZGZhNj
 #EXTINF:-1,GOSPEL TV RTH
 http://162.244.80.169:2014/live/rth2000tv2/playlist.m3u8
+#EXTINF:-1,KAJOUTV 1
+https://raw.githubusercontent.com/simh1977/livetv/master/live.m3u
+#EXTINF:-1,KAJOUTV2
+http://edge1.tikilive.com:1935/unrestricted_tikilive/42597/amlst:Db1YO0P2ORXN/chunklist_w55150949_b975026.m3u8
+#EXTINF:-1,TELE GINEN
+http://streannlive-lh.akamaihd.net/i/RTGHaitiTV_1@384119/master.m3u8?customtoken=b89d4e7e-6db7-4b57-a2ba-7f76a6ce5444&hdnts=exp=1492276410~acl=/*~hmac=a5112553f3fea0416f0f0cf8541524766d38840944ded406deef5a2156dd8846&AkamaiAnalytics_debug=1&sd=10&set-segment-duration=smoothest
+
+#EXTINF:-1,Canada - TVA Montreal
+http://opus.cf/18/ca/tva/822298bf593bbea1e7722404b7d636ea68dfa9e3/chunklist.m3u8
+
+#EXTINF:-1,TNH
+http://162.244.80.50:1935/rtnh01/livestream/playlist_w689110529.m3u8
+
+#EXTINF:-1,Cartoon network
+http://opus.re/opus.re/822298bf593bbea1e7722404b7d636ea68dfa9e3/cartoon_network/master.m3u8
+
+#EXTINF:-1,Histoire
+http://opus.re/TLHTV/chunklist_b1096000.m3u8
+
 #EXTINF:-1, ici Radio Canada Montreal
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
  
@@ -89,9 +108,7 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:-1,France - TV7 Bordeaux
 http://62.210.204.108:1935/livtv7vo/myStream.smil/chunklist_w1048374224_b828000_slfra.m3u8
  
-#EXTINF:-1,Canada - TVA Montreal
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
- 
+
 #EXTINF:-1,France - TVPI Bayonne
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/playlist.m3u8
  
